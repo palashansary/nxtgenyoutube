@@ -30,9 +30,6 @@ To run the app locally, follow these steps:
 3. install node modules usng npm install command
 4. run with npm run start
 
-## Screenshots
-
-![YouTube Clone App Screenshot](app-screenshot.png)
 
 ## Contributing
 
@@ -44,12 +41,10 @@ Contributions are welcome! To contribute to the project, follow these steps:
 4. Push the branch: `git push origin feature/your-feature-name`
 5. Submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or feedback, feel free to reach out at contact@example.com.
+If you have any questions or feedback, feel free to reach out at palashansary@gmail.com.
 
 Thank you for checking out the YouTube Clone App!
