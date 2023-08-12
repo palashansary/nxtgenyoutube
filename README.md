@@ -10,7 +10,7 @@ This is a clone of the YouTube platform, showcasing a simplified version of its 
 
 ## Demo
 
-![YouTube Clone App Screenshot](app-screenshot.png)
+
 
 Check out the live demo of the YouTube Clone App: [Live Demo](https://nxtgenyoutubeapp.netlify.app/)
 
