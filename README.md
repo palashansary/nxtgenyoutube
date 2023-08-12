@@ -1,6 +1,6 @@
 # YouTube Clone App
 
-![YouTube Clone Demo](demo-image.png)
+![YouTube Clone Demo](youtube.png)
 
 Welcome to the YouTube Clone App!
 
