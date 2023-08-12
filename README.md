@@ -28,7 +28,7 @@ To run the app locally, follow these steps:
 1. Clone this repository: `git clone <repository-url>`
 2. Navigate to the app directory: `cd youtube-clone-app`
 3. install node modules usng npm install command
-4. run with npm run 
+4. run with npm run start
 
 ## Screenshots
 
